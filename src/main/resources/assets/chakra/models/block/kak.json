@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chakra:block/kaka",
+    "up": "chakra:block/kaka",
+    "north": "chakra:block/kaka",
+    "east": "chakra:block/kaka",
+    "south": "chakra:block/kaka",
+    "west": "chakra:block/kaka",
+    "particle": "chakra:block/kaka"
+  },
+  "render_type": "solid"
+}
